@@ -189,6 +189,13 @@
     "repo": "FalkorDB/FalkorDB"
   },
   {
+    "name": "HydraDB",
+    "url": "https://hydradb.com/",
+    "category": "stores",
+    "desc": "Graph infrastructure for persistent, time-aware, and relationship-driven agent memory; available self-hosted or managed.",
+    "repo": "hydra-db/hydradb"
+  },
+  {
     "name": "LoCoMo",
     "url": "https://github.com/snap-research/locomo",
     "category": "benchmarks",
