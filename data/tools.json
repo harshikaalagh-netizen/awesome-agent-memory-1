@@ -192,7 +192,7 @@
     "name": "HydraDB",
     "url": "https://hydradb.com/",
     "category": "stores",
-    "desc": "Graph infrastructure for persistent, time-aware, and relationship-driven agent memory; available self-hosted or managed.",
+    "desc": "Graph database for AI agents that stores agent memory and company knowledge, with hybrid search across both in a single call.",
     "repo": "hydra-db/hydradb"
   },
   {
